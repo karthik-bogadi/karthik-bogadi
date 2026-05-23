@@ -9,7 +9,7 @@
   <h1>Hey there, I'm Karthik Kumar Bogadi</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Enthusiast+%E2%98%95;Building+Scalable+Systems+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Fresher+Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Learner+%E2%98%95;CS+Student+%7C+Open+to+Opportunities+%F0%9F%8C%9F;Building+Real-World+Projects+%F0%9F%94%A7" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,13 +17,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Backend Developer** who loves crafting robust, scalable server-side solutions. I thrive on clean architecture, performance optimization, and turning complex problems into elegant code.
+I'm a **Fresher Backend Developer** and CS student passionate about building real-world applications with Java and Spring Boot. I love turning ideas into working software and am actively looking for opportunities to grow.
 
-- 🔭 Currently building production-grade **Java & Spring Boot** applications
-- ⚡ Obsessed with writing code that's fast, maintainable, and actually makes sense
-- 🌱 Always leveling up — currently exploring microservices & cloud-native patterns
-- 💬 Ask me about **Java, Spring Boot, REST APIs, or anything backend**
-- 🎯 Firm believer that great backend = great product
+- 🎓 CS Student | Fresher — eager to learn and contribute
+- 🔭 Currently building projects with **Java & Spring Boot** to sharpen my skills
+- 🌱 Exploring REST APIs, databases, and backend architecture
+- 💬 Ask me about **Java, Spring Boot, or anything backend**
+- 🎯 Looking for my first opportunity to make an impact in a great team
 
 ---
 
@@ -34,7 +34,6 @@ I'm a **Backend Developer** who loves crafting robust, scalable server-side solu
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
@@ -46,13 +45,10 @@ I'm a **Backend Developer** who loves crafting robust, scalable server-side solu
 **Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -66,15 +62,6 @@ I'm a **Backend Developer** who loves crafting robust, scalable server-side solu
   </a>
   <a href="https://github.com/karthik-bogadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://medium.com/@karthik-bogadi" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.youtube.com/@karthik-bogadi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/karthik_bogadi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 

@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Fresher Backend Developer** and CS student passionate about building real-world applications with Java and Spring Boot. I love turning ideas into working software and am actively looking for opportunities to grow.
+I'm a **Java Backend Developer** and CS student passionate about building real-world applications with Java and Spring Boot. I love turning ideas into working software and am actively looking for opportunities to grow.
 
 - 🎓 CS Student | Fresher — eager to learn and contribute
 - 🔭 Currently building projects with **Java & Spring Boot** to sharpen my skills

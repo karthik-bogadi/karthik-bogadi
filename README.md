@@ -9,7 +9,7 @@
   <h1>Hey there, I'm Karthik Kumar Bogadi</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Fresher+Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Learner+%E2%98%95;CS+Student+%7C+Open+to+Opportunities+%F0%9F%8C%9F;Building+Real-World+Projects+%F0%9F%94%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Fresher+Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Developer+%E2%98%95;CS+Student+%7C+Open+to+Opportunities+%F0%9F%8C%9F;Building+Real-World+Projects+%F0%9F%94%A7" alt="Typing SVG" />
   </a>
 </div>
 

@@ -1,112 +1,288 @@
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karthik-bogadi&label=Profile%20Views&color=0e75b6&style=flat" alt="karthik-bogadi" />
-</p>
-
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
-  <h1>Hey there, I'm Karthik Kumar Bogadi</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Fresher+Backend+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Developer+%E2%98%95;CS+Student+%7C+Open+to+Opportunities+%F0%9F%8C%9F;Building+Real-World+Projects+%F0%9F%94%A7" alt="Typing SVG" />
-  </a>
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a **Java Backend Developer** and CS student passionate about building real-world applications with Java and Spring Boot. I love turning ideas into working software and am actively looking for opportunities to grow.
-
-- 🎓 CS Student | Fresher — eager to learn and contribute
-- 🔭 Currently building projects with **Java & Spring Boot** to sharpen my skills
-- 🌱 Exploring REST APIs, databases, and backend architecture
-- 💬 Ask me about **Java, Spring Boot, or anything backend**
-- 🎯 Looking for my first opportunity to make an impact in a great team
-
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/karthik-bogadi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/karthik-bogadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-bogadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-bogadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+<!-- HERO TITLE -->
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Karthik+Kumar+Bogadi;Java+%7C+Spring+Boot+%7C+DSA+%7C+Backend+Developer;Building+Reliable+Backend+and+AI-Powered+Solutions" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-bogadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<!-- SUBTLE DIVIDER -->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:A371F7,100:58A6FF"/>
 
-## 🏆 GitHub Trophies
+<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik-bogadi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<!-- PROFESSIONAL SUBTITLE -->
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=900&lines=Passionate+about+backend+development+and+problem+solving.;Focused+on+writing+clean%2C+efficient+and+reliable+code.;Continuously+learning+and+building+real-world+projects." />
 
-## 🤝 Let's Connect
+<br><br>
 
-<div align="center">
-
-I'm always open to interesting conversations, collaboration, or just a good tech chat. Reach out anytime!
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-bogadi/)
-
-<br/>
-
-*"First, solve the problem. Then, write the code."* — John Johnson
+<a href="mailto:bogadikarthikkumar@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karthik-bogadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/karthikbogadi/"><img src="https://img.shields.io/badge/LeetCode-A371F7?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://karthikbogadiportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> About Me
+
+🎓 B.Tech Information Technology student at PVP Siddhartha Institute of Technology, passionate about software development and problem solving.
+
+💻 Currently focused on:
+- Java & Spring Boot Development
+- Data Structures & Algorithms
+- REST APIs & Backend Systems
+- AI-powered applications
+
+🚀 Interested in building reliable, efficient and impactful applications.
+
+🌱 Consistently improving technical and development skills every day.
+
+</td>
+
+<td width="50%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" /> Developer Profile
+
+```yaml
+Name: Karthik Kumar Bogadi
+Role: Aspiring Software Engineer
+Education: B.Tech - Information Technology (CGPA 8.84)
+Primary Stack: Java • Spring Boot • DSA
+Current Focus: Backend Development & AI Projects
+Mindset: Consistency • Learning • Growth
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=58A6FF&repeat=true&width=420&lines=%3E+Building+real-world+projects...;%3E+Practicing+problem-solving+daily...;%3E+Learning+modern+development+technologies...;%3E+Growing+as+a+developer+every+day..." />
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+}
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <sub>⭐ If you find my work interesting, consider starring a repo or two!</sub>
+
+# ⚡ Technology Ecosystem
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Tools%20%7C%20Languages%20%7C%20Development&height=40&fontSize=22&animation=fadeIn" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Languages-58A6FF?style=for-the-badge&logo=codecrafters&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+
+<br><br>
+
+<sub><b>Java • Python</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Frontend-A371F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+<br><br>
+
+<sub><b>HTML • CSS • React (Basics)</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Backend%20%26%20Database-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=spring,flask,mysql,sqlite,postman&theme=dark" />
+
+<br><br>
+
+<sub><b>Spring Boot • Flask • REST APIs • MySQL • SQLite</b></sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-00C896?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea&theme=dark" />
+
+<br><br>
+
+<sub><b>Git • GitHub • Docker • JUnit • IntelliJ IDEA</b></sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=5000&pause=1500&color=C9D1D9&center=true&vCenter=true&width=900&lines=Building+clean+and+reliable+solutions.;Focused+on+continuous+learning+and+development.;Exploring+modern+technologies+and+best+practices." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:A371F7,100:00C896"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 AI-Powered Secure Medical Report Vault
+
+`Python` `Flask` `SQLite` `Random Forest` `Groq LLaMA`
+
+- Secure healthcare web app for storing and sharing medical reports with doctors using QR-based access
+- AI-powered report summarization using the Groq LLaMA model
+- Random Forest disease prediction (**91.37% accuracy**) with Smart Report Retrieval
+
+[GitHub](https://github.com/karthik-bogadi/Health-Vault) • [Live Demo](https://health-vault-ylmr.onrender.com/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST APIs`
+
+- Backend application following MVC architecture for managing student records
+- CRUD operations using Spring Data JPA with MySQL integration
+- APIs tested using Postman
+
+[GitHub](https://github.com/karthik-bogadi/Student-Management-System)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 PVPSIT CampusBot (RAG Assistant)
+
+`Python` `LangChain` `FAISS` `Sentence Transformers` `Groq` `Streamlit`
+
+- RAG chatbot answering student questions from college regulations, syllabi and notifications
+- Local embeddings with a FAISS index; answers include source citations
+
+[GitHub](https://github.com/karthik-bogadi/PVPSIT-CampusBot)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 AI Testing Agent
+
+`Python` `Playwright` `AI Agent`
+
+- Converts natural language instructions into structured automation steps
+- Dynamically generates and runs Playwright scripts
+- End-to-end flow: input → execution → PASS/FAIL reporting
+
+[GitHub](https://github.com/karthik-bogadi/Automated-Website-Testing)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 Experience
+
+**Artificial Intelligence Intern** — Infosys Springboard
+*Jan 2026 – Mar 2026*
+
+**Java Programming Intern** — EduSkills
+*Jul 2025 – Sep 2025*
+
+## 📜 Certifications
+
+- Fundamentals of Artificial Intelligence — NPTEL (81%, Top 5%)
+- DSA Training — Smart Interviews
+- Quantum Fundamentals Program — Amaravati Quantum Valley (2025–2026)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 Achievements
+
+- 🥇 **2× Hackathon Winner:** 3rd Prize – PVPSIT Hackathon; Top 4 – ALEAP 24-Hour Hackathon, Vijayawada
+- 🚀 Participated in **Cognizant Technoverse Hackathon 2026**
+- 💡 Solved **200+ DSA problems** on LeetCode with a **1500+ rating**
+- 📈 Participated in **22+ LeetCode Weekly Contests**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<!-- CLEAN FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,50:A371F7,100:58A6FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile.;Let's+build+something+amazing+together." />
+
 </div>

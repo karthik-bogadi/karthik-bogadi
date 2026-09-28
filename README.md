@@ -166,12 +166,6 @@ while(!success){
 
 </div>
 
----
----
-
-
-
----
 
 <div align="center">
 

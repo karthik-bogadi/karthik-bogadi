@@ -167,15 +167,6 @@ while(!success){
 </div>
 
 ---
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
-
-
-
 ---
 
 

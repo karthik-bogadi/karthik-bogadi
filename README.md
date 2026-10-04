@@ -11,16 +11,16 @@
 <!-- Social Links with Glowing Effect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-bogadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00B8D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00B8D9"/>
   </a>
   <a href="https://leetcode.com/u/karthikbogadi/">
-    <img src="https://img.shields.io/badge/LeetCode-7B42F6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7B42F6"/>
+    <img src="https://img.shields.io/badge/LeetCode-3B82F6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=3B82F6"/>
   </a>
   <a href="https://karthikbogadiportfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00B8D9"/>
+    <img src="https://img.shields.io/badge/Portfolio-7B42F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7B42F6"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bogadikarthikkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+    <img src="https://img.shields.io/badge/Gmail-C026D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C026D3"/>
   </a>
 </p>
 

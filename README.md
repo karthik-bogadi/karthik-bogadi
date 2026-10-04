@@ -41,7 +41,7 @@ const karthik = {
     currentFocus: "Backend & AI Projects 🔭",
     learning: ["Spring Boot", "Microservices"],
     interests: ["Problem Solving", "Backend Development", "AI/ML"],
-    motto: "Learn. Build. Improve.",
+    motto: "Bugs in my head never make me sleep ^_^",
     
     lifeLoop: function() {
         while(alive) {

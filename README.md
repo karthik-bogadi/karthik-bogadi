@@ -1,99 +1,134 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:A371F7&height=200&section=header&text=Karthik%20Kumar%20Bogadi&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Karthik&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Java+%7C+Spring+Boot+%7C+DSA;Backend+Developer+%F0%9F%92%BB;Building+AI-Powered+Solutions+%F0%9F%9A%80;LeetCode+Enthusiast+%F0%9F%8E%AF" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+Developer+%E2%9A%A1;DSA+Problem+Solver+%F0%9F%A7%A9;LeetCode+Enthusiast+%F0%9F%8E%AF;AI+%26+ML+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/karthik-bogadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/karthikbogadi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://karthikbogadiportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:bogadikarthikkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Social Links with Glowing Effect -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthik-bogadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://leetcode.com/u/karthikbogadi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/>
+  </a>
+  <a href="https://karthikbogadiportfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00C896"/>
+  </a>
+  <a href="mailto:bogadikarthikkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
----
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 👋 About Me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```java
-public class KarthikKumarBogadi {
-    String role       = "Aspiring Software Engineer";
-    String education  = "B.Tech IT @ PVP Siddhartha Institute of Technology (CGPA 8.84)";
-    String[] stack    = {"Java", "Spring Boot", "REST APIs", "MySQL", "Python"};
-    String[] focus    = {"Backend Development", "DSA", "AI Projects"};
-    String motto      = "Learn. Build. Improve.";
-
-    void lifeLoop() {
-        while (!success) {
-            learn();
-            build();
-            improve();
+```javascript
+const karthik = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    currentFocus: "Backend & AI Projects 🔭",
+    learning: ["Spring Boot", "Microservices"],
+    interests: ["Problem Solving", "Backend Development", "AI/ML"],
+    motto: "Learn. Build. Improve.",
+    
+    lifeLoop: function() {
+        while(alive) {
+            eat();
+            code();
+            solve();
+            repeat();
         }
     }
-}
+};
 ```
 
-- 🎓 B.Tech Information Technology student, 2024 – Present
-- 💻 Focused on Java, Spring Boot, REST APIs and backend systems
-- 🤖 Building AI-powered applications (Flask, Random Forest, Groq LLaMA, Playwright)
-- 🧩 200+ DSA problems solved on LeetCode, 1500+ rating, 22+ weekly contests
-- 🏆 2× hackathon winner: 3rd Prize at PVPSIT Hackathon, Top 4 at ALEAP 24-Hour Hackathon
+<br clear="right"/>
 
----
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">⚡ Tech Arsenal</h2>
+<!-- Tech Stack with Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Arsenal
+</h2>
 
 <div align="center">
 
-| Category | Technologies |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,flask,maven&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea&theme=dark" /> |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🎨 Frontend Magic
+<div align="center">  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+#### ⚙️ Backend Power
+<div align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+#### 🗄️ Database & Cloud
+<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+#### 💻 Languages & Tools
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects
-
-**🏥 AI-Powered Secure Medical Report Vault**
-`Python` `Flask` `SQLite` `Random Forest` `Groq LLaMA`
-Secure healthcare app where patients store and share reports with doctors via QR-based access. Includes AI report summarization and a disease prediction model (91.37% accuracy) with smart report retrieval.
-
-**🎓 Student Management System**
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST APIs`
-Backend application following MVC architecture with full CRUD operations, tested using Postman.
-
-**🤖 AI Testing Agent (Infosys Springboard Internship)**
-`Python` `Playwright` `LLM`
-Converts natural language instructions into structured automation steps, generates Playwright scripts dynamically, and reports PASS/FAIL end to end.
-
----
-
-## 💼 Experience
-
-- **Artificial Intelligence Intern**, Infosys Springboard (Jan 2026 – Mar 2026)
-- **Java Programming Intern**, EduSkills (Jul 2025 – Sep 2025)
-
----
-
+<!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=karthik-bogadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=FFFFFF&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-bogadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthik-bogadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=karthik-bogadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karthik-bogadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-bogadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 </div>
 
-<br>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <picture>
@@ -101,12 +136,4 @@ Converts natural language instructions into structured automation steps, generat
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik-bogadi/karthik-bogadi/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/karthik-bogadi/karthik-bogadi/output/github-snake.svg" />
   </picture>
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=4000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile.;Let's+build+something+amazing+together." />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,100:A371F7"/>
-
 </div>

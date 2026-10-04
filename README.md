@@ -14,12 +14,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   <a href="https://leetcode.com/u/karthikbogadi/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-7B42F6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7B42F6"/>
   </a>
   <a href="https://karthikbogadiportfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00C896"/>
+    <img src="https://img.shields.io/badge/Portfolio-00B8D9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00B8D9"/>
   </a>
-  <a href="mailto:bogadikarthikkumar@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bogadikarthikkumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
 </p>
@@ -103,7 +103,6 @@ const karthik = {
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
 </td>
